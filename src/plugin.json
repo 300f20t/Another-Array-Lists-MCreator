@@ -3,10 +3,8 @@
   "supportedversions": [2024004],
   "info": {
     "name": "ArrayList",
-    "version": "3.0.0",
+    "version": "3.0",
     "description": "Create and manage your own lists",
-    "author": "300f20t, Goldorion",
-    "updateJSONURL": "https://raw.githubusercontent.com/Goldorion/Array-Lists-MCreator/master/update.json",
-    "pluginPageID": 65659
+    "author": "300f20t, Goldorion"
   }
 }
