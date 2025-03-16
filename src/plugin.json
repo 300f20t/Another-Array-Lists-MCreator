@@ -1,9 +1,9 @@
 {
   "id": "another_arraylist",
-  "supportedversions": [2024004],
+  "supportedversions": [2024004, 2025001],
   "info": {
     "name": "ArrayList",
-    "version": "3.0",
+    "version": "4.0",
     "description": "Create and manage your own lists",
     "author": "300f20t, Goldorion"
   }
